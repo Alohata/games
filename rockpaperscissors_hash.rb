@@ -36,6 +36,6 @@ EOF
     puts "Sorry, you lose!"
     score[1] += 1
   end
-  puts "Player score: = #{score[0]}, Computer score: = #{score[1]}"
+  puts "Player score: #{score[0]}, Computer score: #{score[1]}"
 end
 
